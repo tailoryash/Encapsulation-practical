@@ -1,4 +1,4 @@
-package com.simform;
+package com.simform.data;
 
 public class Employee {
     private int empId;

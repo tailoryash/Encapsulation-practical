@@ -1,5 +1,7 @@
 package com.simform;
 
+import com.simform.data.Employee;
+
 import java.util.Scanner;
 
 
